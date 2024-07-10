@@ -1,4 +1,4 @@
-package com.ecommerce.login;
+package com.ecommerce.register;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
